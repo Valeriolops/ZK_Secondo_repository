@@ -1,0 +1,21 @@
+<?page title="Auto Generated index.zul"?>
+<window title="Recupera quello che scrivi" border="normal" apply="com.esercizio6.Property">
+
+Scrivi il nome della proprietà <textbox id="mio_input"></textbox>
+<button label="recupera il nome della proprietà" id="idMioBottone"></button>
+<separator></separator>
+<separator></separator>
+<separator></separator>
+<separator></separator>
+<separator></separator>
+<separator></separator><separator></separator>
+<separator></separator>
+<separator></separator>
+
+
+
+
+
+<label id="risultato"></label>
+
+</window>
